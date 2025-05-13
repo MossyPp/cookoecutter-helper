@@ -9,10 +9,3 @@ When you generate a project with Cookiecutter inside a GitHub Codespace, the res
 This script **cleans that up** so the generated project replaces your existing repo cleanly.
 
 ---
-
-## 🚀 Quick Start
-
-1. Run Cookiecutter:
-
-   ```bash
-   cookiecutter gh:your-org/your-template
